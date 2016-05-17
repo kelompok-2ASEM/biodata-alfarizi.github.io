@@ -18,8 +18,8 @@ social:
     url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  - title: "google+"
+    url: "https://plus.google.com"
   - title: "rss"
     url: "/feed.xml"
 </code></pre>
