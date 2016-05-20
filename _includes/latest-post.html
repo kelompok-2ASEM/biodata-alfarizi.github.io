@@ -7,7 +7,7 @@
 
         {{ page.content | markdownify }}
 
-        {% assign post = site.posts.first %}
+        <h4>{% assign post = site.posts.first %}<strong>
         
           <small>.
             <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
