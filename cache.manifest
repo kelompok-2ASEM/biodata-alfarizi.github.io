@@ -8,7 +8,7 @@ biography.html
 
 # Resources that require the user to be online.
 NETWORK:
-*index.html
+index.html
 
 # static.html will be served if main.py is inaccessible
 # offline.jpg will be served in place of all images in images/large/
