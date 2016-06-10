@@ -5,6 +5,8 @@ CACHE MANIFEST
 CACHE:
 index.html
 biography.html
+cache.manifest
+htaccess.htaccess
 
 # Resources that require the user to be online.
 NETWORK:
