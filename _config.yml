@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://biodata-alfarizi.github.io"
+url: "https://kelompok-2ASEM.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,7 +12,7 @@ url: "https://biodata-alfarizi.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /biodata-alfarizi.github.io
+baseurl: /kelompok-2ASEM.github.io
 
 # Google tracking id to track your visitors
 
