@@ -64,7 +64,8 @@ me-img: "/img/jr.JPG"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#8B0000"
+color-browser: "#4682B4"
+#"#8B0000"
 apple-status-bar-style: "black"
 
 ################
