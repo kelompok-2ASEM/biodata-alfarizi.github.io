@@ -2,7 +2,14 @@ CACHE MANIFEST
 # 2010-06-18:v2
 index.html
 biography.html
+mp3/Dash-Berlin16.mp3
+mp3/Dash-Berlin32.mp3
 mp3/Dash-Berlin64.mp3
+mp3/Dash-Berlin128.mp3
+mp3/Dash-Berlin128fasttempo.mp3
+mp3/Dash-Berlin128pitch.mp3
+mp3/Dash-BerlinAmplify10db.mp3
+
 htaccess.htaccess
 
 # Resources that require the user to be online.
