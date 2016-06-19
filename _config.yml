@@ -29,7 +29,7 @@ force-https: True
 #############
 
 lang: "en"
-author: "Students System Information Uin Suska Riau by Kelompok-2ASEM - Powered by Personal Jekyll"
+author: "Students System Information Uin Suska Riau by Kelompok-2ASEM - Powered by Personal Jekyll Theme"
 title: "Kelompok-2ASEM"
 description: "Website for project "
 keywords: "my project ,pages, jones, personal, jekyll, theme"
@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "belajar-github@gmail.com"
+email: "kelompok-2asem@gmail.com"
 
 ################
 # Author Blurb #
